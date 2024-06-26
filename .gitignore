@@ -103,3 +103,5 @@ corpora/
 tokenizers/
 classifiers/
 chunkers/
+
+.idea/
